@@ -1,0 +1,11 @@
+{
+  "name": "julian",
+  "lastName": "yepes",
+  "age": 30,
+  "friends": [
+    { "name": "rachel", "nickname": "rach123" },
+    { "name": "joe", "nickname": "joe123" },
+    { "name": "chandler", "nickname": "chan123" },
+    { "name": "ross", "nickname": "ross123" }
+  ]
+}
